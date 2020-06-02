@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/IchaTreasure/e-commerce-demo.svg?branch=master)](https://travis-ci.org/IchaTreasure/e-commerce-demo)
          ___        ______     ____ _                 _  ___  
         / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
        / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
