@@ -28,7 +28,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 #ALLOWED_HOSTS = [os.environ.get('C9_HOSTNAME')]
-ALLOWED_HOSTS  = ['b4a617585f75459291f2435f097f1f61.vfs.cloud9.eu-west-2.amazonaws.com']
+ALLOWED_HOSTS  = ['b4a617585f75459291f2435f097f1f61.vfs.cloud9.eu-west-2.amazonaws.com', 't-ecommerce-demo.herokuapp.com']
 
 # Application definition
 
